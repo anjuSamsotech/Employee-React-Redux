@@ -1,0 +1,34 @@
+{
+  "Employee": [
+    {
+      "id": "1",
+      "employeeID": "123",
+      "name": "Swathi",
+      "department": "Development",
+      "age": "30",
+      "salary": "20000",
+      "gender": "F",
+      "experienceYears": "5"
+    },
+    {
+      "id": "2",
+      "employeeID": "256",
+      "name": "Ahamed",
+      "department": "QA",
+      "age": "26",
+      "salary": "18000",
+      "gender": "M",
+      "experienceYears": "4"
+    },
+    {
+      "id": "ebc0",
+      "employeeID": "552",
+      "name": "winn",
+      "department": "QA",
+      "age": "33",
+      "salary": "12333",
+      "gender": null,
+      "experienceYears": "5"
+    }
+  ]
+}
